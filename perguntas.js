@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Língua Portuguesa',
+    'Quais são os países que falam português?',
+    'Portugal, Brasil, Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, e Timor-Leste.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Matemática',
+    'Qual é a diferença entre um ângulo agudo e um ângulo obtuso?',
+    'Um ângulo agudo é menor que 90 graus, enquanto um ângulo obtuso é maior que 90 graus e menor que 180 graus.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Ed Financeira',
+    'O que são despesas fixas?',
+    ' São gastos que não variam, como aluguel e contas mensais'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Empreendorismo',
+    'O que é networking?',
+    'É a construção de relacionamentos profissionais que podem ajudar na troca de informações e oportunidades.'
 )
